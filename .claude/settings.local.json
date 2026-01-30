@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:docs.isaacsim.omniverse.nvidia.com)",
+      "WebFetch(domain:pydata-sphinx-theme.readthedocs.io)",
+      "Bash(pip install:*)",
+      "Bash(python -m playwright:*)"
+    ]
+  }
+}

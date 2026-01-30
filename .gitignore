@@ -1,3 +1,6 @@
 *.zip
 data/
 lightning_logs/
+Crawler/output_pdfs
+
+PageIndex/
